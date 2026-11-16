@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-gnu-gettext"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS gnu-gettext component - localization"
+
+[lib]
+name = "gnu_gettext"
+path = "src/lib.rs"
