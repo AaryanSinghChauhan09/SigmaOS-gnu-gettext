@@ -3,7 +3,7 @@ name = "SigmaOS-gnu-gettext"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gnu-gettext component"
+description = "GNU gettext"
 upstream = []
 
 [contract]
